@@ -1,4 +1,4 @@
 # Single Screen App
-The single screen app for my first udacity project to get reviewed.
+The single screen app for my first Udacity project to get reviewed.
 
-It is about a restaurant called Hungrill Café.
+It is about a restaurant called Hungrill Cafe.
