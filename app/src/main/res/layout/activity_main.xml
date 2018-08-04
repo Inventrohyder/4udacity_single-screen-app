@@ -65,6 +65,7 @@
         android:layout_marginBottom="48dp"
         android:gravity="center"
         android:text="@string/phone_number"
+        android:autoLink="phone"
         android:textAppearance="?android:textAppearanceMedium"
         android:textColor="@android:color/black" />
 
