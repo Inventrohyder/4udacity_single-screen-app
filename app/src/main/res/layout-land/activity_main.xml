@@ -21,8 +21,8 @@
         android:layout_marginBottom="24dp"
         android:layout_marginTop="24dp"
         android:layout_weight="1"
-        android:orientation="horizontal"
-        android:baselineAligned="false">
+        android:baselineAligned="false"
+        android:orientation="horizontal">
 
         <LinearLayout
             android:layout_width="0dp"
@@ -74,7 +74,6 @@
                 android:drawableStart="@drawable/ic_place"
                 android:gravity="center"
                 android:text="@string/location"
-                android:autoLink="map"
                 android:textAppearance="?android:textAppearanceMedium"
                 android:textColor="@android:color/black" />
 
